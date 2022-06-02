@@ -1,0 +1,13 @@
+# Local configuration and databases
+.env
+.env.*
+*.sqlite
+*.sqlite3
+*.sqlite3-*
+
+# Python and local tools
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
